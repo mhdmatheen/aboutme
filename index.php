@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
-<link rel="stylesheet" href="styles.4f60e26c9c5c55ff6e23.css"></head>
+<link rel="stylesheet" href="styles.8dac87ff0d7259da422b.css"></head>
 <body>
   <app-root></app-root>
 
@@ -26,5 +26,5 @@ $(document).ready(function(){
 
 });  
 </script>
-<script src="runtime.acf0dec4155e77772545.js" defer></script><script src="polyfills.35a5ca1855eb057f016a.js" defer></script><script src="main.01d333366c5cf78b26aa.js" defer></script></body>
+<script src="runtime.acf0dec4155e77772545.js" defer></script><script src="polyfills.35a5ca1855eb057f016a.js" defer></script><script src="main.746cb634bc6a36918692.js" defer></script></body>
 </html>
