@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
-<link rel="stylesheet" href="styles.8dac87ff0d7259da422b.css"></head>
+<link rel="stylesheet" href="styles.6988772546afc4a69275.css"></head>
 <body>
   <app-root></app-root>
 
